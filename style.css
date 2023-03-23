@@ -104,7 +104,7 @@ section{
 	display: flex;
 	justify-content: center;
 	align-items: flex-end;
-	background: url(../images/12.png) no-repeat;
+	background: url(12.png) no-repeat;
 	background-size: cover;
 	background-position: center;
 	background-color: #34495e;
